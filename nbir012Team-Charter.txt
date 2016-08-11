@@ -15,6 +15,9 @@ Project Definition
 	-The development of a working statistical analysis
 	-Identify morphological range of a species
 	-The automation of most of the process after the landarks have been placed
+	-Develop a morphometric analysis using python
+	-Complete the report
+	-Pass the course
 
 Team Agreement
 
@@ -22,8 +25,10 @@ Team Agreement
 	- To communicate effectively, to treat everyone fairly, ask for feedback and take onboard comments, embrace change.
 
 	Communication Agreement: 
-	- Communicate via email when neccessary for client. Use slack for colleagues within MedSci 736.
-	- Meet when it can’t be covered in email and have a clear scope for the meeting. Email client onoce a week regarding progress to date and any working software.
+	- Communicate via email when necessary for client. Use slack for colleagues within MedSci 736.
+	- Meet when it can’t be covered in email and have a clear scope for the meeting. Email client once a week regarding progress to date and any working software.
+	- If there are issues with the course I will contact the course coordinator or a demonstrator via slack and vice versa
+	- If there is an issue with the project I will contact Greg via email and vice versa.
 
 	Project Team:   
 	- Neil Birrell, Development Team, nbir012@aucklanduni.ac.nz 
